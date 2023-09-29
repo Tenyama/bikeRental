@@ -1,0 +1,4 @@
+1|Honda|Pink|city:Sai Gon|500|2|2022|Pink bike. Beginner-friendly.|30
+2|Yamaha|Light pink|city:Ha Noi|1000|1|2000|My bike lovely|8
+3|Piagio|Grey|city:Ha Noi|255|2|2020|Elegant elephant|35
+4|Honda|Red|city:Sai Gon|500|3|2019|Sport bike|55
