@@ -1,5 +1,0 @@
-dlth|123|1|Do Le Trang Hanh|123456789|Citizen ID|123456789|Sai Gon|123456789|20/12/2030|Creditpoint:500020|Score:4.99
-nmq|123|2|Nguyen Minh Quan|12345679|Passport|987654321|Ha Noi|9876541|01/01/2025|Creditpoint:142020|Score:3.25
-lts|123|3|Le Thien Son|123456789|Citizen ID|8765432|Ha Noi|765432|02/02/2027|Creditpoint:12452|Score:4.8
-lht|123|4|Le Huu Toan|123458|Passport|7643|Sai Gon|12345678|23/09/2028|Creditpoint:123435|Score:4.88
-
